@@ -1,0 +1,8 @@
+{
+  "name": "CirrusTranslate",
+  "description": "High-performance translation project management platform for documents and video localization, featuring automated quoting and translator assignment.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
